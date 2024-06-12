@@ -10,7 +10,7 @@
 
 <?php
 // Paramètres de connexion
-$host = 'localhost';
+$host = 'bdd-jordan-2.azurewebsites.net';
 $username = 'votre_nom_utilisateur';
 $password = 'votre_mot_de_passe';
 $database = 'nom_de_la_base_de_donnees';
